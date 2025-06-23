@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+
+# Google service account key
+service-account.json
+
+# Generated video frames & outputs
+temp/
+
+# IDE settings
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Logs
+*.log
