@@ -4,6 +4,77 @@ A Flask-based service that generates GLSL shader-based music visualizer videos u
 
 ## Overview
 
+📺DAIM –
+
+It is a music production platform **_DAIM_** 's AI functions allow even those with no knowledge of music production to create music intuitively.
+
+In order to avoid the mass production of uniform content, which is the fate of AI, **_DAIM_** will provide collaborative production tools with professional DJs and singers, creating a content environment that combines the efficiency that is AI's greatest feature with the originality that humans create.
+
+In addition, the completed songs will be managed on the blockchain , including copyright, master rights, and portrait rights, as well as usage history such as the number of downloads and plays .
+
+artists around the world to run AI generation workflows in real time, instantly accessible high-performance GPUs are essential. AI -based music production activities are carried out on the "JANCTION" chain, a low-cost, high-speed GPU cloud , reducing the cost of processing AI development data.
+
+The completed song will be turned into a music video by a video creator, and the content will be managed by "JANCTION x IPFS".
+
+**_DAIM will_** also handle distribution.
+
+The completed content will be managed by JANCTION x IPFS, played on **_MyTube (tentative name) ,_** and sold for a fee on the newly constructed Web 3.0 audition platform **_DeXus ._**
+
+DeXus allows artists **_and_** fans to interact directly and sell content created on **_DAIM directly to fans._**
+
+🔗Key Features
+
+- **_Automatic music generation function :_**　Users simply input natural language following the guidance.
+
+The music is automatically generated .
+
+- **_Collaboration features :_**　To polish the automatically generated content, users can apply for collaboration. If someone agrees to collaborate, they will be provided with real-time access and editing rights to the music files, allowing multiple people to edit the content simultaneously .
+- **_Content storage function:_** Completed content is stored safely and inexpensively on JANCTION x IPFS.
+- **_Content management features :_**　Completed content will be managed on the blockchain.
+- **_Content sales features :_**　Content managed by blockchain can be sold within the DeXus platform . Artists can freely decide the selling price of their content.
+- **_Content Rating Features :_**　You can add comments to the content .
+
+💡Use Cases
+
+- Secure archiving and streaming of premium video content.
+- Monetization through token rewards and affiliate linked video commerce.
+- Integration with virtual influencers and AI-generated media.
+- A platform shift for creators restricted by centralized platforms.
+
+🧩System Architecture
+
+- **_Frontend:_** A web interface for users and creators with login, video upload, search and playback functionality.
+- **_Backend:_** The IPFS Gateway handles video storage, encryption, access control, and interaction with the JANCTION blockchain.
+- **_Cache Management:_** AI-based CDN optimization ensures smooth video playback without excessive costs.
+
+🚀Development Roadmap  
+Phase 1 – Basic Frontend (February – April)
+
+- Creator Video Upload
+- Video Streaming and Sharing
+- User Registration and Social Login
+- Search & Recommendation Engine
+
+Phase 2 – IPFS Gateway (March to July)
+
+- Distributed Storage and Search
+- Blockchain transaction log via JANCTION node
+- Secure encryption/decryption support
+
+Phase 3 – Cash Management (April – August)
+
+- Real-time access-based caching
+- AI-based content preloading for trend optimization
+
+🔧Future Scope
+
+- Mobile app development for Android/iOS
+- JCP-based Pay-per-view integration
+- Video shopping and affiliate e-commerce features
+
+If you're interested in building a censorship-resistant, creator-first video platform, we welcome submissions and feedback from developers, creators, and decentralization advocates.
+
+
 This application provides two endpoints:
 
 1. **`POST /generate-video`**
