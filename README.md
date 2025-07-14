@@ -1,7 +1,3 @@
-# MusicApp
-
-A Flask-based service that generates GLSL shader-based music visualizer videos using OpenAI and uploads them to Google Drive.
-
 ## Overview
 
 📺DAIM –
