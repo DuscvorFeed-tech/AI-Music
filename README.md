@@ -1,22 +1,3 @@
-## Overview
-
-📺DAIM –
-
-It is a music production platform **_DAIM_** 's AI functions allow even those with no knowledge of music production to create music intuitively.
-
-In order to avoid the mass production of uniform content, which is the fate of AI, **_DAIM_** will provide collaborative production tools with professional DJs and singers, creating a content environment that combines the efficiency that is AI's greatest feature with the originality that humans create.
-
-In addition, the completed songs will be managed on the blockchain , including copyright, master rights, and portrait rights, as well as usage history such as the number of downloads and plays .
-
-artists around the world to run AI generation workflows in real time, instantly accessible high-performance GPUs are essential. AI -based music production activities are carried out on the "JANCTION" chain, a low-cost, high-speed GPU cloud , reducing the cost of processing AI development data.
-
-The completed song will be turned into a music video by a video creator, and the content will be managed by "JANCTION x IPFS".
-
-**_DAIM will_** also handle distribution.
-
-The completed content will be managed by JANCTION x IPFS, played on **_MyTube (tentative name) ,_** and sold for a fee on the newly constructed Web 3.0 audition platform **_DeXus ._**
-
-DeXus allows artists **_and_** fans to interact directly and sell content created on **_DAIM directly to fans._**
 
 🔗Key Features
 
